@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jungai-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "react eslint jungai style",
   "main": "index.js",
   "peerDependencies": {
@@ -37,5 +37,8 @@
     "prettier",
     "lint",
     "config"
-  ]
+  ],
+  "scripts": {
+    "lint": "eslint ."
+  }
 }
