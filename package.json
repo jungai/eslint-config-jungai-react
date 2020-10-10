@@ -40,5 +40,6 @@
   ],
   "scripts": {
     "lint": "eslint ."
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
